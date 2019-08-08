@@ -1,3 +1,4 @@
-# costexplorer_daily
-costexplorer for aws user
+# AWS Daily Cost Report Generator
+
+
 
